@@ -34,6 +34,8 @@ gem 'bootstrap-sass', '~> 3.3', '>= 3.3.7'
 # gem 'mini_magick', '~> 4.8'
 
 # Use Capistrano for deployment
+# Paperclip to upload photos
+gem 'paperclip', '~> 6.1'
 # gem 'capistrano-rails', group: :development
 gem 'devise', '~> 4.5'
 # Reduces boot times through caching; required in config/boot.rb
